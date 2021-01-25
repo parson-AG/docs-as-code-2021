@@ -1,0 +1,9 @@
+Docs-As-Code demo
+================
+
+:stylesheet: asciidoc.css
+:imagesdir: images
+:topicdir: ./topics
+:reusedir: ../reuse
+
+include::{topicdir}/sample-topic.adoc[leveloffset+=1]
