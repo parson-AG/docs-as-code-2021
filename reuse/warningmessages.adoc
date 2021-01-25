@@ -1,0 +1,15 @@
+= Warning messages
+
+// tag::warninglaserclass1[]
+
+[WARNING.caution]
+====
+**Risk of glare**
+
+The device contains a Class-1 laser. Class-1 laser beams can temporarily impair vision.
+
+* Do not look directly or indirectly into the laser.
+* Do not direct the laser beam at persons or animals.
+====
+
+// end::warninglaserclass1[]

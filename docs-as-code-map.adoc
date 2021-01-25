@@ -5,3 +5,5 @@ Docs-As-Code demo
 :imagesdir: images
 :topicdir: ./topics
 :reusedir: ../reuse
+
+include::{topicdir}/sample-topic.adoc[leveloffset+=1]
