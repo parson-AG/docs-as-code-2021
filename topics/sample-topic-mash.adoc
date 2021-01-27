@@ -1,0 +1,53 @@
+= Sample topic
+
+This was a sample topic.
+
+== Lists
+
+This is an unordered list:
+
+* List item 1
+* List item 2
+
+This is an ordered list:
+
+. Item 1
+. Item 2
+. Item 3
+
+This is a definition list:
+
+Term 1::
+This is the definition for term 1.
+
+Term 2::
+This is the definition for term 2.
++
+The definition spans two paragraphs.
+
+== Table
+
+Here comes a table:
+
+.Sample table
+|===
+|Column 1|Column 2
+
+|1.1
+|1.2
+
+|2.1
+|2.2
+|===
+
+== Fragments and images
+
+This is how you include a warning message:
+
+include::{reusedir}/warningmessages.adoc[tag=warninglaserclass1]
+
+This is how you include an image
+
+[#img-sample] 
+.A sample image
+image::sample-image.png[Sample image,200,100]
