@@ -17,4 +17,4 @@ This is a list of steps:
 . Step 2
 . Step 3
 
-You successfully cleaned your desk!
+Yeah, you successfully cleaned your desk!
