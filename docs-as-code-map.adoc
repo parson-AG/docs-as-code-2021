@@ -7,3 +7,5 @@ Docs-As-Code demo
 :reusedir: ../reuse
 
 include::{topicdir}/sample-topic.adoc[leveloffset+=1]
+include::{topicdir}/Glossary.adoc[leveloffset+=1]
+include::{topicdir}/Table \of \Countries.adoc[leveloffset+=1]
