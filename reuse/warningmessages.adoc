@@ -13,3 +13,28 @@ The device contains a Class-1 laser. Class-1 laser beams can temporarily impair 
 ====
 
 // end::warninglaserclass1[]
+
+// tag::warning-hot-surfaces[]
+
+[CAUTION.warning]
+====
+**Risk of burns**
+
+* Do not touch the surface with bare hands.
+* Always wear special gloves.
+====
+
+// end::warning-hot-surfaces[]
+
+
+// tag::warning-electrical hazards[]
+
+CAUTION: Never leave the light on. 
+
+// end::warning-hot-surfaces[]
+
+// tag::warning-water-ingress[]
+
+WARNING: Never drill into water pipes. 
+
+// end::warning-water-ingress[]
