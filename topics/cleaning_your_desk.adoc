@@ -1,0 +1,20 @@
+= How to clean your desk
+
+This is an instructional topic on how to clean your desk. By following these steps, you minimize the amount of germs and bacteria on your workspace. This also decreases the risk if bacterial infections.
+
+== What you need
+
+This is an list of materials you need to clean your desk:
+
+* Material 1
+* Material 2
+
+== What to do
+
+This is a list of steps:
+
+. Step 1
+. Step 2
+. Step 3
+
+You successfully cleaned your desk!
