@@ -9,3 +9,7 @@ Docs-As-Code demo
 include::{topicdir}/sample-topic.adoc[leveloffset+=1]
 
 include::{topicdir}/sample-topic-2.adoc[leveloffset+=1]
+
+include::{topicdir}/reference1.adoc[leveloffset+=1]
+
+
