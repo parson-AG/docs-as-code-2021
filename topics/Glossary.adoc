@@ -1,0 +1,5 @@
+= Glossary
+Term:: a word or expression that has a precise meaning in some uses or is peculiar to a science, art, profession, or subject
+Concept:: an abstract or generic idea generalized from particular instances
+Definition:: a statement of the meaning of a word or word group or a sign or symbol
+Part-Of-Speech:: a category of words that have similar grammatical properties.
