@@ -1,0 +1,12 @@
+== Topic describing an image
+
+:imagesdir: ../images/
+
+image::sample-image.png[img1, 1100, title="This is a sample image"]
+
+The picture consists of three components:
+
+* a matchstick man
+* a stick-like "speech bubble"
+* the statement made by the matchstick man: "Sample image!"
+
