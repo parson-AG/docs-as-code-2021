@@ -16,4 +16,4 @@ include::{topicdir}/reference1.adoc[leveloffset+=1]
 
 include::{topicdir}/Glossary.adoc[leveloffset+=1]
 
-include::{topicdir}/Table\ of\ Countries.adoc[leveloffset+=1]
+include::{topicdir}/Table_of_Countries.adoc[leveloffset+=1]
