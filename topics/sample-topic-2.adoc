@@ -1,0 +1,3 @@
+= Sample topic 2
+
+Lorem ipsum dolorem.
