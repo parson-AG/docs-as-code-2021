@@ -1,0 +1,17 @@
+
+* Dimensions
+** Height: 5 m
+** Width: 3 m
+** Depth: 2 m
+
+* Weight: 1.500 kg
+
+* Electrical power supply:
+** Nominal voltage: 230 V
+** Frequency: 50 Hz
+** Rated current: 15 A
+
+* Pneumatics:
+** Operating pressure: 6 ... 8 bar
+**  Volumetric flow rate: 5 m³/h
+** Connection thread: G1/2"

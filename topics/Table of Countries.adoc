@@ -1,0 +1,30 @@
+= Table of Countries
+
+
+
+[cols=3*,options=header]
+|===
+|Name of the country
+|Capital of the country
+|Population size
+
+|Schweden
+|Stockholm
+|10,3 Millionen
+
+|Norwegen
+|Oslo
+|5,3 Millionen
+
+|Finnland
+|Helsinki
+|5,5 Millionen
+
+|Dänemark
+|Kopenhagen
+|5,8 Millionen
+
+|Island
+|Reykjavik
+|356 000
+|===
